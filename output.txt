@@ -1,0 +1,4 @@
+#Sat Apr 14 18:03:44 MSK 2018
+database=localhost
+dbpassword=password
+dbuser=mkyong
