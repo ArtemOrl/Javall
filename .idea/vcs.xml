@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3.JavaMultithreading" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task26/task2611" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../LocalGitRepository" vcs="Git" />
   </component>
 </project>
